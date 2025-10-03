@@ -5,7 +5,7 @@ The purpose is to practice using GitHub for version control, document my work, a
 
 The software prints the message "Hello World!" along with my name to the console. This project marks the starting point of building a portfolio that will showcase growth and learning as a software engineer.  
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/I5IOfdwOaSU)
 
 # Development Environment
 
